@@ -1,6 +1,6 @@
 # Sampling-Free for Object Detection
 
-*Development, Maintenance @ChenJoya*
+*Development, Maintenance @ChenJoya. Please feel free to contact me: chenjoya@foxmail.com*
 
 **To address the foreground-background imbalance, is sampling heuristics necessary in training deep object detectors?** 
 
