@@ -25,7 +25,7 @@ pip install pycocotools
 
 # follow PyTorch installation in https://pytorch.org/get-started/locally/
 # we give the instructions for CUDA 9.0 (10.0 is also practicable)
-conda install pytorch=1.1.0 torchvision cudatoolkit=9.0
+conda install pytorch torchvision cudatoolkit=9.0
 
 # install apex
 cd $INSTALL_DIR
