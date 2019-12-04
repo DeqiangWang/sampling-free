@@ -2,6 +2,8 @@
 
 *Development, Maintenance @ChenJoya. Please feel free to contact me: chenjoya@foxmail.com*
 
+## Introduction
+
 **To address the foreground-background imbalance, is sampling heuristics necessary in training deep object detectors?** 
 
 Keep clam and try the sampling-free mechanism in this repository. 
